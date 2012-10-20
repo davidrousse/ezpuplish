@@ -1,0 +1,40 @@
+parameters:
+    # Kernel related params
+    webroot_dir: %kernel.root_dir%/../web
+    binaryfile_identifier_prefix:
+
+    ###
+    # ezsettings namespace, default scope
+    ###
+
+    # Content/Location view
+    ezsettings.default.location_view: {}
+    ezsettings.default.content_view: {}
+
+    # Common settings
+    ezsettings.default.database.dsn: ~
+    ezsettings.default.session_name: "eZSESSID{siteaccess_hash}"    # Using "{siteaccess_hash}" in session name makes it unique per siteaccess
+    ezsettings.default.url_alias_router: true                       # Use UrlAliasRouter by default
+    ezsettings.default.languages: ["eng-GB"]
+    ezsettings.default.var_dir: "var"
+    ezsettings.default.storage_dir: "%ezsettings.default.var_dir%/storage"
+    ezsettings.default.binary_dir: "%ezsettings.default.storage_dir%/original"
+
+    # Content settings
+    ezsettings.default.content.view_cache: true         # Whether to use content view cache or not (Etag/Last-Modified based)
+    ezsettings.default.content.ttl_cache: false         # Whether to use TTL Cache for content (i.e. Max-Age response header)
+    ezsettings.default.content.default_ttl: 60          # Default TTL cache value for content
+
+    # Treemenu settings (admin interface)
+    ezsettings.default.treemenu.http_cache: true        # Whether to use HttpCache or not for admin tree menu
+    ezsettings.default.treemenu.ttl_cache: 86400        # If HttpCache is used, cache time to live in seconds
+
+    # Templates to use while rendering fields
+    ezsettings.default.field_templates:
+        - {template: EzPublishCoreBundle::content_fields.html.twig, priority: 0}
+
+    ###
+    # Internal settings
+    ###
+    ezpublish.siteaccess.groups: {}
+    ezpublish.siteaccess.groups_by_siteaccess: {}

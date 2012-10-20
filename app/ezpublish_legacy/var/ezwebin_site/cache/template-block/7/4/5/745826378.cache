@@ -1,0 +1,138 @@
+                          <title>Products / Home - Parc animalier des Angles</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="fr-FR" />
+
+                    <meta name="author" content="eZ Systems" />
+    
+                <meta name="copyright" content="eZ Systems" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/ezpublish/app/ezpublish_legacy/index.php/fre" title="Page d'accueil de Parc animalier des Angles" />
+<link rel="Index" href="/ezpublish/app/ezpublish_legacy/index.php/fre" />
+<link rel="Top"  href="/ezpublish/app/ezpublish_legacy/index.php/fre" title="Products / Home - Parc animalier des Angles" />
+<link rel="Search" href="/ezpublish/app/ezpublish_legacy/index.php/fre/content/advancedsearch" title="Recherche Parc animalier des Angles" />
+<link rel="Shortcut icon" href="/ezpublish/app/ezpublish_legacy/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezpublish/app/ezpublish_legacy/index.php/fre/ezinfo/copyright" />
+<link rel="Author" href="/ezpublish/app/ezpublish_legacy/index.php/fre/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/ezpublish/app/ezpublish_legacy/index.php/fre/rss/feed/my_feed" />
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/ezpublish/app/ezpublish_legacy/index.php/fre/layout/set/print/Products" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Version imprimable";
+    head.appendChild(printNode);
+})();
+</script>      <link rel="stylesheet" type="text/css" href="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/cache/public/stylesheets/657e5d839c1c846dff539a3897357a7c_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/ezpublish/app/ezpublish_legacy/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/ezpublish/app/ezpublish_legacy/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/ezpublish/app/ezpublish_legacy/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/ezpublish/app/ezpublish_legacy/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/ezpublish/app/ezpublish_legacy/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<script type="text/javascript" src="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/cache/public/javascript/7f3dc423d0dfbdc9a021f879eb725502.js" charset="utf-8"></script>
+
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="nosidemenu noextrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_68">
+
+  
+  <!-- Header area: START -->
+    <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      <div id="languages">
+    <ul>
+                            <li class="current_siteaccess"><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/switchlanguage/to/fre/Products">Fre</a></li>
+        </ul>
+</div>  
+      <div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/content/view/tagcloud/2" title="Tag cloud">Tag cloud</a></li>
+                                                    <li id="sitemap"><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/content/view/sitemap/2" title="Site map">Site map</a></li>
+                                                <li id="registeruser"><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/user/register" title="Register">Register</a></li>
+                        <li id="login"><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/user/login" title="Login">Login</a></li>
+            
+        </ul>
+</div>    </div>
+
+    <div id="logo">    <a href="/ezpublish/app/ezpublish_legacy/index.php/fre" title="Parc animalier des Angles"><img src="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/storage/images/design/plain-site/172-2-fre-FR/Parc-animalier-des-Angles1.png" alt="" width="176" height="42" /></a></div>    
+    <div id="searchbox">
+  <form action="/ezpublish/app/ezpublish_legacy/index.php/fre/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Texte à rechercher :</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" />
+    <input id="searchbutton" class="button" type="submit" value="Recherche" title="Recherche" />
+              </div>
+  </form>
+</div>    
+    <p class="hide"><a href="#main">Aller au contenu principal</a></p>
+  </div>
+  </div>  <!-- Header area: END -->
+
+  
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_68" class="selected firstli current"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Products"><span>Products</span></a></div></li>
+                                                                      
+                            <li id="node_id_76"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Solutions"><span>Solutions</span></a></div></li>
+                                                                      
+                            <li id="node_id_85"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Training"><span>Training</span></a></div></li>
+                                                                      
+                            <li id="node_id_95"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Support"><span>Support</span></a></div></li>
+                                                                      
+                            <li id="node_id_106"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Getting-started"><span>Getting started</span></a></div></li>
+                                                                      
+                            <li id="node_id_152"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Community"><span>Community</span></a></div></li>
+                                                                                                  
+                            <li id="node_id_175" class="lastli"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Company"><span>Company</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

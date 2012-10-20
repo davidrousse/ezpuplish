@@ -1,0 +1,40 @@
+
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                           
+                            <li id="node_id_68" class="firstli"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Products"><span>Products</span></a></div></li>
+                                                                      
+                            <li id="node_id_76"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Solutions"><span>Solutions</span></a></div></li>
+                                                                      
+                            <li id="node_id_85"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Training"><span>Training</span></a></div></li>
+                                                                      
+                            <li id="node_id_95"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Support"><span>Support</span></a></div></li>
+                                                                      
+                            <li id="node_id_106"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Getting-started"><span>Getting started</span></a></div></li>
+                                                                                                  
+                            <li id="node_id_152" class="selected current"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Community"><span>Community</span></a></div></li>
+                                                                                                  
+                            <li id="node_id_175" class="lastli"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Company"><span>Company</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

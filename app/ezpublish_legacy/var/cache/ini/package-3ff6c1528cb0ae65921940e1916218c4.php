@@ -1,0 +1,12 @@
+<?php
+// This is a auto generated ini cache file, time created:Sat, 20 Oct 12 12:24:32 +0000
+$data = array(
+'rev' => 2,
+'created' => '2012-10-20T12:24:32+00:00',
+'charset' => "utf-8",
+'files' => array (0 => '/var/www/ezpublish/app/ezpublish_legacy/lib/ezutils/classes/../../../settings/package.ini',
+),
+'file' => '/var/www/ezpublish/app/ezpublish_legacy/lib/ezutils/classes/../../../settings/package.ini',
+'val' => array ('RepositorySettings' => array ('RepositoryDirectory' => 'packages','RemotePackagesIndexURL' => 'http://packages.ez.no/ezpublish/4.7/4.7.0','RemotePackagesIndexURLBase' => 'http://packages.ez.no/ezpublish','Vendor' => 'eZ-systems',),'PackageSettings' => array ('RepositoryDirectories' => array (0 => 'kernel/classes',),'ExtensionDirectories' => array (),'HandlerAlias' => array ('ezcontentclass' => 'eZContentClassPackageHandler','ezcontentobject' => 'eZContentObjectPackageHandler','eziniaddon' => 'eZINIAddonPackageHandler','ezfile' => 'eZFilePackageHandler','ezini' => 'eZFilePackageHandler','ezdesign' => 'eZFilePackageHandler','eztemplate' => 'eZFilePackageHandler','ezthumbnail' => 'eZFilePackageHandler','ezsql' => 'eZDBPackageHandler','ezextension' => 'eZExtensionPackageHandler','ezinstallscript' => 'eZInstallScriptPackageHandler',),'TypeList' => array ('contentobject' => 'Content object','contentclass' => 'Content class','sitestyle' => 'Site style','site' => 'Site',),'StateList' => array ('mature' => 'Mature','stable' => 'Stable','beta' => 'Beta','alpha' => 'Alpha','prealpha' => 'Pre-Alpha',),),'MaintainerSettings' => array ('RoleList' => array (0 => 'lead',1 => 'developer',2 => 'designer',3 => 'contributor',4 => 'tester',),),'CreationSettings' => array ('HandlerList' => array (0 => 'ezcontentclass',1 => 'ezstyle',2 => 'ezcontentobject',3 => 'ezextension',),'HandlerAlias' => array ('ezcontentclass' => 'eZContentClassPackageCreator','ezstyle' => 'eZStylePackageCreator','ezcontentobject' => 'eZContentObjectPackageCreator','ezextension' => 'eZExtensionPackageCreator',),),'InstallerSettings' => array ('HandlerList' => array (0 => 'ezcontentobject',1 => 'ezinstallscript',),'HandlerAlias' => array ('ezcontentobject' => 'eZContentObjectPackageInstaller','ezinstallscript' => 'eZInstallScriptPackageInstaller',),),
+));
+?>

@@ -1,0 +1,985 @@
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:02 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:30 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 11:59:52 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 11:59:52 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 11:59:52 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:00:30 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:00:30 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:00:30 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:00:30 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:04 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:04 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:04 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:04 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:12 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:12 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:12 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:12 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:14 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:14 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:14 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:14 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:16 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:18 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:18 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:18 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:18 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:22 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:22 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:22 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:22 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:02:41 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpublish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:02:41 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:02:41 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:02:41 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:06:02 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:06:02 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:06:02 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:06:08 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/i18n.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:06:09 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:06:09 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:06:09 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:07:39 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:07:39 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:07:39 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:08:57 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:08:57 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:08:57 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:09:07 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:09:07 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:09:07 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:09:22 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:09:22 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:09:22 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:09:52 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:09:52 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:09:52 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:11:23 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:11:23 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:11:23 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:12:08 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:12:08 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:12:08 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:13:00 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:13:00 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:13:00 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:13:53 ] [127.0.0.1] :
+Could not open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php' for writing, perhaps wrong permissions
+[ Oct 20 2012 12:13:53 ] [127.0.0.1] eZPHPCreator::store:
+Failed to open file 'var/cache/override/override_8e90b0d63025faec1ef0ecd38da41be2.php'
+[ Oct 20 2012 12:13:53 ] [127.0.0.1] eZTemplateDesignResource::createOverrideCache:
+Could not write template override cache file, check permissions in var/cache/override/.
+Running eZ Publish without this cache will have a performance impact.
+[ Oct 20 2012 12:13:53 ] [127.0.0.1] eZSendmailTransport::sendMail:
+An error occurred while sending e-mail. Check the Sendmail error message for further information (usually in /var/log/messages)
+[ Oct 20 2012 12:13:53 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/i18n.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:13:57 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/site.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:13:57 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/site.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:13:58 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/site.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:13:58 ] [127.0.0.1] eZINI::save:
+Failed opening file 'settings/override/site.ini.append.php.tmp' for writing
+[ Oct 20 2012 12:15:09 ] [127.0.0.1] eZSendmailTransport::sendMail:
+An error occurred while sending e-mail. Check the Sendmail error message for further information (usually in /var/log/messages)
+[ Oct 20 2012 12:15:09 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:09 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:15 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:15 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:18 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:18 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:31 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:31 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:32 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:15:33 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:17:47 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezbasket' already exists. Query: CREATE TABLE ezbasket (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  order_id int(11) NOT NULL DEFAULT '0',
+  productcollection_id int(11) NOT NULL DEFAULT '0',
+  session_id varchar(255) NOT NULL DEFAULT '',
+  PRIMARY KEY ( id ),
+  KEY ezbasket_session_id ( session_id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:17:47 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezbasket (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  order_id int(11) NOT NULL DEFAULT '0',
+  productcollection_id int(11) NOT NULL DEFAULT '0',
+  session_id varchar(255) NOT NULL DEFAULT '',
+  PRIMARY KEY ( id ),
+  KEY ezbasket_session_id ( session_id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:18:39 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:18:39 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:00 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezbinaryfile' already exists. Query: CREATE TABLE ezbinaryfile (
+  contentobject_attribute_id int(11) NOT NULL DEFAULT '0',
+  download_count int(11) NOT NULL DEFAULT '0',
+  filename varchar(255) NOT NULL DEFAULT '',
+  mime_type varchar(255) NOT NULL DEFAULT '',
+  original_filename varchar(255) NOT NULL DEFAULT '',
+  version int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( contentobject_attribute_id, version )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:00 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezbinaryfile (
+  contentobject_attribute_id int(11) NOT NULL DEFAULT '0',
+  download_count int(11) NOT NULL DEFAULT '0',
+  filename varchar(255) NOT NULL DEFAULT '',
+  mime_type varchar(255) NOT NULL DEFAULT '',
+  original_filename varchar(255) NOT NULL DEFAULT '',
+  version int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( contentobject_attribute_id, version )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:13 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:13 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:46 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezbasket' already exists. Query: CREATE TABLE ezbasket (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  order_id int(11) NOT NULL DEFAULT '0',
+  productcollection_id int(11) NOT NULL DEFAULT '0',
+  session_id varchar(255) NOT NULL DEFAULT '',
+  PRIMARY KEY ( id ),
+  KEY ezbasket_session_id ( session_id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:46 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezbasket (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  order_id int(11) NOT NULL DEFAULT '0',
+  productcollection_id int(11) NOT NULL DEFAULT '0',
+  session_id varchar(255) NOT NULL DEFAULT '',
+  PRIMARY KEY ( id ),
+  KEY ezbasket_session_id ( session_id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:53 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:53 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:53 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:53 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:54 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:55 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:55 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:55 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:55 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:56 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:57 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:58 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:59 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:59 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:59 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:19:59 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:00 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:01 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:01 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:01 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:01 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:02 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:02 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:02 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:02 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:03 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:04 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:04 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:04 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:04 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:05 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:05 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:05 ] [127.0.0.1] eZMySQLiDB:
+Query error (1050): Table 'ezapprove_items' already exists. Query: CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:05 ] [127.0.0.1] :
+Failed inserting the SQL:
+CREATE TABLE ezapprove_items (
+  collaboration_id int(11) NOT NULL DEFAULT '0',
+  id int(11) NOT NULL AUTO_INCREMENT,
+  workflow_process_id int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY ( id )
+) ENGINE=InnoDB
+[ Oct 20 2012 12:20:57 ] [127.0.0.1] eZMySQLiDB:
+Connection error: Couldn't connect to database server. Please try again later or inform the system administrator.
+Access denied for user 'ezpuplish'@'localhost' (using password: YES)
+[ Oct 20 2012 12:22:24 ] [127.0.0.1] eZSendmailTransport::sendMail:
+An error occurred while sending e-mail. Check the Sendmail error message for further information (usually in /var/log/messages)
+[ Oct 20 2012 12:25:30 ] [127.0.0.1] eZTemplate:
+Unknown template variable 'edition' in namespace ''
+[ Oct 20 2012 12:25:54 ] [127.0.0.1] eZTemplate:
+Unknown template variable 'edition' in namespace ''
+[ Oct 20 2012 12:27:03 ] [127.0.0.1] eZTemplate:
+Unknown template variable 'edition' in namespace ''

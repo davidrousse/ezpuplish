@@ -1,0 +1,203 @@
+
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                           
+                            <li id="node_id_68" class="firstli"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Products"><span>Products</span></a></div></li>
+                                                                      
+                            <li id="node_id_76"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Solutions"><span>Solutions</span></a></div></li>
+                                                                      
+                            <li id="node_id_85"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Training"><span>Training</span></a></div></li>
+                                                                      
+                            <li id="node_id_95"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Support"><span>Support</span></a></div></li>
+                                                                      
+                            <li id="node_id_106"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Getting-started"><span>Getting started</span></a></div></li>
+                                                                      
+                            <li id="node_id_141"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Partners"><span>Partners</span></a></div></li>
+                                                                      
+                            <li id="node_id_152"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Community"><span>Community</span></a></div></li>
+                                                                                                  
+                            <li id="node_id_175" class="lastli"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/fre/Company"><span>Company</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+        <div id="toolbar">
+  
+                                      
+<!-- eZ website toolbar: START -->
+
+<div id="ezwt">
+<div id="ezwt-content" class="float-break">
+
+<!-- eZ website toolbar content: START -->
+<div id="ezwt-ezlogo">
+<a href="/ezpublish/app/ezpublish_legacy/index.php/fre/ezinfo/about" title="À propos" target="_blank"><img src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-logo.png" width="66" height="25" alt="eZ" /></a>
+</div>
+<form method="post" action="/ezpublish/app/ezpublish_legacy/index.php/fre/content/action">
+<div id="ezwt-creataction" class="ezwt-actiongroup">
+<label for="ezwt-create" class="hide">Create:</label>    <select name="ClassID" id="ezwt-create">
+      <optgroup label="Content">
+            <option value="16">Article</option>
+            <option value="17">Article (main-page)</option>
+            <option value="18">Article (sub-page)</option>
+            <option value="19">Blog</option>
+            <option value="20">Blog post</option>
+            <option value="13">Comment</option>
+            <option value="24">Documentation page</option>
+            <option value="40">Event</option>
+            <option value="41">Event calendar</option>
+            <option value="22">Feedback form</option>
+            <option value="1">Folder</option>
+            <option value="37">Forum</option>
+            <option value="39">Forum reply</option>
+            <option value="38">Forum topic</option>
+            <option value="43">Forums</option>
+            <option value="23">Frontpage</option>
+            <option value="35">Gallery</option>
+            <option value="36">Geo Article</option>
+            <option value="25">Infobox</option>
+            <option value="31">Link</option>
+            <option value="26">Multicalendar</option>
+            <option value="27">Poll</option>
+            <option value="21">Product</option>
+        </optgroup>
+      <optgroup label="Media">
+            <option value="28">File</option>
+            <option value="29">Flash</option>
+            <option value="30">Image</option>
+            <option value="32">Quicktime</option>
+            <option value="34">Real video</option>
+            <option value="44">Silverlight</option>
+            <option value="33">Windows media</option>
+        </optgroup>
+      <optgroup label="Setup">
+            <option value="15">Template look</option>
+        </optgroup>
+      <optgroup label="Users">
+            <option value="4">User</option>
+            <option value="3">User group</option>
+        </optgroup>
+    </select>
+    <input type="hidden" name="ContentLanguageCode" value="fre-FR" />
+  <input class="ezwt-input-image" type="image" src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-create.png" name="NewButton" title="Créer ici" />
+</div>
+<div id="ezwt-currentpageaction" class="ezwt-actiongroup">
+    <input type="hidden" name="ContentObjectLanguageCode" value="fre-FR" />
+    <input class="ezwt-input-image" type="image" src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit.png" name="EditButton" title="Modifier: Home [Frontpage]" />            <input class="ezwt-input-image disabled" type="image" src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations-disabled.png" name="AddAssignmentButton" title="Ajouter des emplacements" disabled="disabled" />
+    
+<a href="/ezpublish/app/ezpublish_legacy/index.php/fre/websitetoolbar/sort/2" title="Tri"><img src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-sort.png" alt="Tri" /></a>
+
+</div>
+
+<div id="ezwt-miscaction" class="ezwt-actiongroup">
+                                                                                    <input type="image" disabled="disabled" class="ezwt-input-image disabled" src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-url.png" alt="(Dés)activer le mode modification du menu." title="(Dés)activer le mode modification du menu." id="ezwt-link-switcher" />
+
+<script type="text/javascript">
+
+(function( d )
+{
+    addEvent( window, 'load', function(){
+        var link = d.getElementById('ezwt-link-switcher');
+        link.disabled = false;
+        link.className = 'ezwt-input-image';
+
+        addEvent( link, 'click', function( e ){
+            e = e || window.event;
+            if( e.preventDefault ) e.preventDefault();
+            else e.returnValue = false;
+            var links = getByClass( d, 'menu-item-link' );
+            for (var i = 0, l = links.length; i < l; i++)
+            {
+                var rel = links[i].getAttribute('rel'), href = links[i].getAttribute('href'), target = links[i].getAttribute('target'), rev = links[i].getAttribute('rev');
+                links[i].setAttribute('rel',  href );
+                links[i].setAttribute('href', rel );
+                links[i].setAttribute('target', rev ? rev : '' );
+                links[i].setAttribute('rev', target ? target : '' );
+            }
+            return false;
+        });
+    });
+
+    function getByClass( n, className )
+    {
+        if (n.getElementsByClassName)
+          return n.getElementsByClassName(className);
+
+        var hits = [], els = n.getElementsByTagName("*");
+        for (var i = 0, l = els.length; i < l; i++)
+        {
+            if ( els[i].className && ( ' ' + els[i].className + ' ').indexOf( ' ' + className + ' ' ) !== -1 )
+                hits.push( els[i] );
+        }
+        return hits;
+    }
+
+    function addEvent( n, trigger, handler )
+    {
+        if ( n.addEventListener ) n.addEventListener( trigger, handler, true );
+        else if ( n.attachEvent ) n.attachEvent( 'on' + trigger, handler );
+    }
+})( document );
+
+</script>                                                                                                                              
+  <input type="hidden" name="HasMainAssignment" value="1" />
+  <input type="hidden" name="ContentObjectID" value="65" />
+  <input type="hidden" name="NodeID" value="2" />
+  <input type="hidden" name="ContentNodeID" value="2" />
+  
+            <input type="hidden" name="ContentObjectLanguageCode" value="fre-FR" />
+
+    <a href="http://localhost/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/" target="_blank" title="Aller dans l'interface d'administration."><img src="/ezpublish/app/ezpublish_legacy/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-admin.png" alt="Aller dans l'interface d'administration." /></a>
+</div>
+</form>
+<div id="ezwt-help">
+<a href="http://ez.no/doc" title="Documentation" target="_blank"><span class="hide">Documentation</span>?</a>
+</div>
+<!-- eZ website toolbar content: END -->
+
+</div>
+</div>
+
+
+<script type="text/javascript">
+(function()
+{
+    var body = document.body, ezwt = document.getElementById( 'ezwt' );
+    if ( !ezwt ) return;
+    if ( body.className.indexOf('ie6') !== -1 ) return;
+
+    if ( body.className )
+        body.className += ' floating-wt';
+    else
+        body.className = 'floating-wt';
+
+    // Set padding on header / body based on height of toolbar
+    var page = document.getElementById( 'page' )
+    if ( page )
+        page.getElementsByTagName('div')[0].style.paddingTop = ezwt.offsetHeight + 'px';
+    else
+        body.style.paddingTop = ezwt.offsetHeight + 'px';
+})();
+</script>
+
+
+<!-- eZ website toolbar: END -->
+  </div>    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

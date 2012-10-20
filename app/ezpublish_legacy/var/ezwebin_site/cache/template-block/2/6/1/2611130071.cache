@@ -1,0 +1,13 @@
+
+<div id="header-topmenu">
+<ul>    <li class="unselected first ezmynavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/dashboard" title="Gérer les éléments et informations relatives à votre compte.">Tableau de bord</a></div></li>        <li class="selected middle ezcontentnavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/view/full/2" title="Gérer le contenu du site.">Contenus</a></div></li>    <li class="unselected middle ezmedianavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/view/full/43" title="Gérer les images, fichiers, documents, etc.">Médiathèque</a></div></li>    <li class="unselected middle ezusernavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/view/full/5" title="Gérer les utilisateurs, les groupes et les droits.">Comptes utilisateurs</a></div></li>    <li class="unselected middle ezsetupnavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/cache" title="Configurer eZ Publish et ses fonctionnalités avancées.">Administration</a></div></li>    <li class="unselected last eztagsnavigationpart"><div>    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/tags/dashboard" title="eZ Tags dashboard">eZ Tags</a></div></li></ul>
+</div>
+
+<script type="text/javascript">
+
+jQuery( '#header-topmenu ul li' ).click(function(){ jQuery(this).addClass('active'); });
+
+</script>
+
+</div>
+</div>

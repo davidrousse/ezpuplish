@@ -1,0 +1,99 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">Vous êtes ici :</span>            <span class="path">Administration du cache</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
+    <div id="leftmenu">
+<div id="leftmenu-design">
+    
+            
+    
+    
+
+        
+    
+    
+    
+            <div class="box-header"><div class="box-ml">
+        <h4>Administration</h4>
+        </div></div>
+
+        <div class="box-bc"><div class="box-ml"><div class="box-content">
+
+                    <ul class="leftmenu-items">
+                                                                                                
+                                                                                                                                                                                                                    <li class="current"><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/cache">Gestion du cache</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/class/grouplist">Classes</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/infocollector/overview">Information recueillie</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/extensions">Extensions</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/settings/view">Configuration .ini</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/translations">Langues</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/visual/menuconfig">Gestion des menus</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/pdf/list">Export PDF</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/package/list">Paquetages</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/rad">RAD</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/rss/list">Syndication</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/search/stats">Statistiques de recherche</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/section/list">Sections</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/session">Sessions</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/state/groups">États des objets</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/info">Informations système</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/setup/systemupgrade">Vérifier la mise à jour</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/trigger/list">Déclencheurs</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/url/list">Gestion des liens</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/urltranslator">Traducteur d'URL</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/urlwildcards">URL avec jokers</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/workflow/grouplist">Workflows</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/workflow/processlist">Processus de workflow</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/oauthadmin/list">oAuth admin</a></div></li>
+                                        </ul>
+        
+        </div></div></div>
+        
+
+<div id="widthcontrol-links" class="widthcontrol">
+<p>    <span class="current">Petit</span>
+    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/medium" title="Modifier la largeur du menu à gauche pour une taille moyenne.">Moyen</a>
+    <a href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/large" title="Modifier la largeur du menu à gauche pour une grande taille.">Grand</a>
+    </p>
+</div>
+
+
+<div id="widthcontrol-handler" class="hide">
+<div class="widthcontrol-grippy"></div>
+</div>
+
+    
+</div>
+</div>
+
+<hr class="hide" />

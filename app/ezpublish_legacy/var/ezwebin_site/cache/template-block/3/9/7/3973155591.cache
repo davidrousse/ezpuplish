@@ -1,0 +1,92 @@
+
+                
+    <title>Ouverture de session / Utilisateur - Parc animalier des Angles</title>
+
+    
+    
+    
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta http-equiv="Content-language" content="fr-FR" />
+
+    
+                <meta name="author" content="eZ Systems" />
+                    <meta name="copyright" content="eZ Systems" />
+                    <meta name="description" content="Content Management System" />
+                    <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+        
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin" title="Page de garde Parc animalier des Angles" />
+<link rel="Index" href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin" />
+<link rel="Top"  href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin" title="Ouverture de session / Utilisateur - Parc animalier des Angles" />
+<link rel="Search" href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/content/advancedsearch" title="Recherche Parc animalier des Angles" />
+<link rel="Shortcut icon" href="/ezpublish/app/ezpublish_legacy/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/ezinfo/copyright" />
+<link rel="Author" href="/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/ezinfo/about" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/ezpublish/app/ezpublish_legacy/index.php/ezwebin_site_admin/layout/set/print" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Version imprimable";
+    head.appendChild(printNode);
+})();
+</script>
+
+        
+      <link rel="stylesheet" type="text/css" href="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/cache/public/stylesheets/de1b553392ffd1accc4f4547670be281_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+/* Terminate floating elements flow in IE < 8 */
+.float-break
+{
+  height: 1%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 8]>
+<style>
+#controlbar-top .box-bc
+{
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=180, Strength=8);
+  zoom: 1;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>
+#controlbar-top .box-bc
+{
+padding-bottom:8px;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.yui3-js-enabled .scroll-to-top {display: none;}
+input.box, textarea.box {width: 99%}
+</style>
+<![endif]-->
+
+
+  <script type="text/javascript" src="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/cache/public/javascript/54c1353b60bfbb6ae635f4e6cedfbdcd.js" charset="utf-8"></script>
+
+</head>
+
+<body class="loginpage">
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+<div id="header">
+<div id="header-design" class="float-break">
+
+</div>
+</div>

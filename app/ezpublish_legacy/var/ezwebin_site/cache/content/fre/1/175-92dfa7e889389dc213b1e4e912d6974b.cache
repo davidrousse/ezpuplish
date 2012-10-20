@@ -1,0 +1,56 @@
+a:10:{s:7:"content";s:2918:"
+<div class="border-box">
+<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+<div class="border-ml"><div class="border-mr"><div class="border-mc float-break">
+
+<div class="content-view-full">
+    <div class="class-folder">
+
+        
+        <div class="attribute-header">
+            <h1>
+Company</h1>
+        </div>
+
+                                    <div class="attribute-short">
+                    
+
+<div class="object-center"><div class="content-view-embed">
+<div class="class-image">
+    <div class="attribute-image">
+
+    
+        
+    
+                                                                                                                                            <img src="/ezpublish/app/ezpublish_legacy/var/ezwebin_site/storage/images/company/company-banner/1232-1-fre-FR/Company-banner.jpg" width="566" height="197"  style="border: 0px solid ;" alt="Company banner" title="Company banner" />
+            
+    
+    
+    </div>
+
+     </div>
+</div>
+</div>                </div>
+                    
+                    <div class="attribute-long">
+                
+<p>Vivamus non neque. Proin id augue. Aliquam a tellus. <b>Donec cursus rutrum purus.</b> Aliquam tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. In suscipit dictum augue. Donec arcu ante, consequat a, feugiat in, posuere hendrerit, dolor. Morbi tempus, sem ac interdum scelerisque, justo nisi egestas nisl, et mattis dui est at velit. Aliquam in libero ac urna molestie eleifend. </p><table class="list" border="0" cellpadding="2" cellspacing="0" width="100%" style="width: 100%"><tr><th width="50%" valign="top">  Aliquam a tellus
+  </th><th valign="top">  Class aptent
+  </th></tr><tr class="bglight"><td valign="top" style="vertical-align: top">  Donec cursus rutrum purus.
+  </td>
+<td valign="top" style="vertical-align: top">  Proin id augue.
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  Aliquam in libero ac urna molestie eleifend.
+  </td>
+<td valign="top" style="vertical-align: top">  Morbi tempus, sem ac interdum.
+  </td>
+</tr>
+</table>
+<p>Quisque fringilla hendrerit turpis. Curabitur suscipit blandit nulla. Sed mauris justo, iaculis vel, dictum ut, molestie et, purus. Fusce ut risus. Nulla mauris magna, vulputate quis, dignissim vel, lobortis ut, neque. Etiam sed ante. </p><p>Curabitur in dolor nec tellus consequat gravida. Proin faucibus viverra eros. Suspendisse fringilla. Etiam eget elit eu augue euismod lobortis. Sed urna elit, volutpat vel, ultricies id, molestie a, ligula. In cursus nonummy quam. Sed malesuada iaculis magna. Curabitur mollis vehicula nibh. Curabitur at orci at leo vulputate vestibulum. </p>            </div>
+        
+            </div>
+</div>
+
+</div></div></div>
+<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+</div>";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:7:"Company";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:3:"175";}}s:10:"title_path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:3:{s:4:"text";s:7:"Company";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:3:"175";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:3:"173";s:7:"node_id";s:3:"175";s:14:"parent_node_id";s:1:"2";s:8:"class_id";s:1:"1";s:16:"class_identifier";s:6:"folder";s:9:"remote_id";s:32:"b4668ac60d726ddfb655c3895cb0cae5";s:14:"node_remote_id";s:32:"e060ff40aa17eb21dc1e4595c9a5eb9a";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"2";s:9:"url_alias";s:7:"Company";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"3";s:12:"main_node_id";s:3:"175";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"23";s:23:"parent_class_identifier";s:9:"frontpage";s:21:"parent_node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:23:"parent_object_remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";}s:13:"template_list";a:12:{i:0;s:67:"extension/ezwebin/design/ezwebin/override/templates/full/folder.tpl";i:1;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:2;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:3;s:67:"design/standard/templates/content/datatype/view/ezxmltags/embed.tpl";i:4;s:67:"extension/ezwebin/design/ezwebin/override/templates/embed/image.tpl";i:5;s:59:"design/standard/templates/content/datatype/view/ezimage.tpl";i:7;s:68:"design/standard/templates/content/datatype/view/ezxmltags/strong.tpl";i:8;s:88:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:9;s:64:"design/standard/templates/content/datatype/view/ezxmltags/th.tpl";i:11;s:81:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/tr.tpl";i:12;s:64:"design/standard/templates/content/datatype/view/ezxmltags/td.tpl";i:18;s:67:"design/standard/templates/content/datatype/view/ezxmltags/table.tpl";}s:9:"cache_ttl";i:-1;}
